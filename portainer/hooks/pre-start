@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 # This hack can be removed if https://github.com/docker-library/docker/pull/444 gets merged.
 
